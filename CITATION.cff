@@ -1,8 +1,8 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Kyle R.
-    given-names: Bryenton
+  - family-names: Bryenton
+    given-names: Kyle R.
     orcid: https://orcid.org/0000-0001-5716-5314
 title: Oscallot
 version: 2023-05-16
